@@ -1,7 +1,7 @@
 package bls
 
 import (
-	"github.com/neatlib/bls-go/bn256"
+	"github.com/neatio-network/bls-go/bn256"
 )
 
 type Signature struct {
