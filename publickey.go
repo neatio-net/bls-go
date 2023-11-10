@@ -3,7 +3,7 @@ package bls
 import (
 	"math/big"
 
-	"github.com/neatio-network/bls-go/bn256"
+	"github.com/neatio-net/bls-go/bn256"
 )
 
 type PublicKey struct {
